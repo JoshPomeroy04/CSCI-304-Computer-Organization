@@ -1,0 +1,24 @@
+Command 1: r
+    This command runs the program until a breakpoint or an error.
+    This was the first command I used so that I could ensure that the 
+    program had no errors in it and would fully execute.
+
+Command 2: b main
+    This command inserts a breakpoint at the main() function.
+    This was the second command I used so that I could begin stepping
+    through the program and analyze the program without it fully executing.
+
+Command 3: s 
+    This command runs the next line of the program.
+    This was the third command I used so that I could step through the 
+    program one line at a time.
+
+Command 4: p i
+    The p command prints out the value of the variable name given.
+    This was the fourth command I used so that I could check on the value
+    of i at each stage of the program.
+
+Command 5: c 
+    This continues the program until it reaches a breakpoint or an error.
+    This was the 5th command I ran once I got past the printf statement as 
+    continuing to use s was running native C code for the printf function.
