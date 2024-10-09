@@ -1,0 +1,12 @@
+# Apple
+.DS_Store
+
+# Settings/workspace
+**/.vscode
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
